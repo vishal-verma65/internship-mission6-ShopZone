@@ -262,8 +262,7 @@ export default function ProductCard({ product }) {
             style={{ flex: 1, fontSize: "0.8rem", padding: "0.5rem" }}
           >
             Details
-          </button>
-          ]{" "}
+          </button>{" "}
           <button
             onClick={handleAddToCart}
             className="btn-primary"
